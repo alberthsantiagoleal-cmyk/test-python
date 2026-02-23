@@ -1,0 +1,16 @@
+{
+    "101": {
+        "nombre": "taladro",
+        "categoria": "construccion",
+        "cantidad": 20,
+        "estado": "en reparacion",
+        "valor": 20000.0
+    },
+    "102": {
+        "nombre": "martillo",
+        "categoria": "construccion",
+        "cantidad": 15,
+        "estado": "en reparacion",
+        "valor": 25000.0
+    }
+}

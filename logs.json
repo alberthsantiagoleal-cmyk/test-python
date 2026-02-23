@@ -1,0 +1,207 @@
+[
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta registrada: 101 - taladro"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta registrada: 102 - martillo"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta registrada: 103 - motosierra"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Usuario registrado: 123456 - juan sebastian leal herrera (residente)"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Usuario registrado: 456123 - alberth santiago leal (residente)"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Usuario registrado: 456789 - alejandra rojas trigos (residente)"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Credenciales creadas para usuario: 123456"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Credenciales creadas para usuario: 456123"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Credenciales creadas para usuario: 456789"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "123456",
+        "descripcion": "Login exitoso: juan sebastian leal herrera"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "123456",
+        "descripcion": "Solicitud de prestamo creada: SOL0001 - Herramienta 101"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "PRESTAMO",
+        "usuario": "admin",
+        "descripcion": "Prestamo aprobado: PRES0001 - Usuario 123456 - Herramienta 101"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "456123",
+        "descripcion": "Login exitoso: alberth santiago leal"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "456123",
+        "descripcion": "Solicitud de prestamo creada: SOL0002 - Herramienta 102"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "PRESTAMO",
+        "usuario": "admin",
+        "descripcion": "Prestamo aprobado: PRES0002 - Usuario 456123 - Herramienta 102"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: motor da\u00f1ado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 102: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 103: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: MAL ESTADO"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta 101 actualizada"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta 102 actualizada"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta 103 actualizada"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 102: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta registrada: 101 - taladro"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta registrada: 102 - martillo"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Login exitoso: Administrador del Sistema"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": "admin",
+        "descripcion": "Herramienta 101 actualizada"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 101: mal estado"
+    },
+    {
+        "tipo": "INFO",
+        "usuario": null,
+        "descripcion": "Mantenimiento en 102: mal estado"
+    }
+]
